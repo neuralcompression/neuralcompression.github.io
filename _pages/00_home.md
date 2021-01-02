@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: ICLR2021
-desc_title: Neural Compression Workshop @ ICLR 2020
+desc_title: Neural Compression Workshop @ ICLR 2021
 description: From Information Theory to Applications 
 ---
 
