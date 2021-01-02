@@ -43,7 +43,7 @@ TBD
     <td style="text-align:center"><img src="assets/img/penal_irina_higgins.webp" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist at Google</td>
+    <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist, Google</td>
     <td style="text-align:center"><a href="https://www.inference.vc/about/">Ferenc Huszár</a> <br> Cambridge University</td>
     <td style="text-align:center"><a href="https://www.philkr.net">Philipp Krähenbühl</a> <br>University of Texas at Austin</td>
     <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
