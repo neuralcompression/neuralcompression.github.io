@@ -33,7 +33,7 @@ TBD
   </tr>
 </table>
 
-### Penalists
+### Panelists
 
 <table style="width:75%">
   <tr>
