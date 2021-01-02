@@ -8,7 +8,7 @@ description: From Information Theory to Applications
 
 TBD
 
-### Confirmed Speakers
+### Speakers (to be confirmed)
 
 <table style="width:75%">
   <tr>
