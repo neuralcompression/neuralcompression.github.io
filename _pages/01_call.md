@@ -32,6 +32,6 @@ We solicit short workshop paper submissions of up to 4 pages + unlimited referen
 
 Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session.
 
-Paper submissions should be made through OpenReview and further information will be available later at this page. Please send your inquiries by email to the organizers at neural.compression.workshop@gmail.com.
+Paper submissions should be made through OpenReview and further information will be available later at this page. Please send your inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:neural.compression.workshop@gmail.com).
 
 Please consider forwarding this workshop information to your colleagues or friends. 
