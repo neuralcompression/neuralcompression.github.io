@@ -14,7 +14,7 @@ The workshop solicits work related to neural data compression ranging from infor
 
 Submissions are invited for topics on, but not limited to:
 
-* Image / Video / Audio Compression with autoencoders, flows, autoregressive models, generative adversarial networks, etc.
+* Image/Video/Audio Compression with AutoEncoders, Flows, AutoRegressive models, Generative Adversarial networks, etc.
 * Neural Network Compression
 * Probabilistic Modeling and Variational Inference for Compression
 * Entropy Coding
@@ -33,7 +33,7 @@ We solicit short workshop paper submissions of up to 4 pages + unlimited referen
 
 Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session.
 
-Paper submissions should be made through OpenReview and further information will be available at [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}). Please send your inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:tneural.compression.workshop@gmail.com).
+Paper submissions should be made through OpenReview and further information will be available at [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}). Please send your inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:neural.compression.workshop@gmail.com).
 
 
 

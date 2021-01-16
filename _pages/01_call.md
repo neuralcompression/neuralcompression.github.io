@@ -13,7 +13,7 @@ The workshop solicits work related to neural data compression ranging from infor
 
 Submissions are invited for topics on, but not limited to:
 
-* Image / Video / Audio Compression with autoencoders, flows, autoregressive models, generative adversarial networks, etc.
+* Image/Video/Audio Compression with AutoEncoders, Flows, AutoRegressive models, Generative Adversarial Networks, etc.
 * Neural Network Compression
 * Probabilistic Modeling and Variational Inference for Compression
 * Entropy Coding
