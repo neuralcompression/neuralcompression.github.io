@@ -6,9 +6,38 @@ desc_title: Neural Compression Workshop @ ICLR 2021
 description: From Information Theory to Applications 
 ---
 
-TBD
+Data compression is a problem of great practical importance and a new frontier for machine learning research that combines empirical findings with fundamental theoretical insights. The goal of this workshop is to bring together researchers from deep learning, information theory, and probabilistic modeling in oder to learn from each other and to encourage exchange on fundamentally novel issues related to neural data compression.
 
-### Speakers (to be confirmed)
+### Topics
+
+The workshop solicits work related to neural data compression ranging from information-theoretical aspects to solving issues related to applications.
+
+Submissions are invited for topics on, but not limited to:
+
+* Image / Video / Audio Compression with autoencoders, flows, autoregressive models, generative adversarial networks, etc.
+* Neural Network Compression
+* Probabilistic Modeling and Variational Inference for Compression
+* Entropy Coding
+* Minimal Description Length Theory
+* Information Theory and Source Coding
+
+### Important Dates
+
+* **Submission deadline**: Feb 26, 2021
+* **Notification data**: March 26, 2021
+* **Workshop date**: May 8, 2021
+
+### Submission Instructions
+
+We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in ICLR style.
+
+Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session.
+
+Paper submissions should be made through OpenReview and further information will be available at [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}). Please send your inquiries by email to the organizers at neural.compression.workshop@gmail.com.
+
+
+
+### Speakers 
 
 <table style="width:75%">
   <tr>
@@ -50,12 +79,6 @@ TBD
   </tr>
 </table>
 
-### How do I submit?
-
-**Main deadline: TBD**
-
-Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional details on how to submit.
-
 ### Organizers
 
 * [Stephan Mandt](http://www.stephanmandt.com), University of California, Irvine
@@ -65,3 +88,6 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
 * [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam; Qualcomm AI Research
 * [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
 * [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
+
+Please consider forwarding this workshop information to your colleagues or friends. 
+

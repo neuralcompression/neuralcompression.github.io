@@ -4,8 +4,6 @@ permalink: /schedule/
 title: Schedule
 ---
 
-TBD
-
 # ICLR 2021 Neural Compression Workshop Schedule
 Saturday, May 8th
 
