@@ -75,8 +75,8 @@ Paper submissions should be made through OpenReview and further information will
   <tr>
     <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist, Google</td>
     <!--<td style="text-align:center"><a href="https://www.inference.vc/about/">Ferenc Huszár</a> <br> Cambridge University</td>-->
-    <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>University of Texas at Austin</td>
     <td style="text-align:center"><a href="https://www.philkr.net">Philipp Krähenbühl</a> <br>University of Texas at Austin</td>
+    <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>Co-founder and chair of MPEG</td>
     <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
   </tr>
 </table>
