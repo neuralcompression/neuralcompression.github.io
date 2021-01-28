@@ -14,8 +14,8 @@ Saturday, May 8th
 |---------------------|---------------------------------------|---------------------------------------------------------------------------------------|
 | 10:35 am - 11:00 am | Invited talk 1                        | [Fabian Mentzer](https://fmentzer.github.io) (pre-recorded)                           |
 | 11:00 am - 11:10 am | Invited talk 1 Q & A                  | [Fabian Mentzer](https://fmentzer.github.io)                                          |
-| 11:10 am - 11:35 am | Invited talk 2                        | [Naftali Tishby](https://elsc.huji.ac.il/faculty-staff/naftali-tishby) (pre-recorded) |
-| 11:35 am - 11:45 am | Invited talk 2 Q & A                  | [Naftali Tishby](https://elsc.huji.ac.il/faculty-staff/naftali-tishby)                |
+| 11:10 am - 11:35 am | Invited talk 2                        | [TBD](https://elsc.huji.ac.il/faculty-staff/naftali-tishby) (pre-recorded) |
+| 11:35 am - 11:45 am | Invited talk 2 Q & A                  | [TBD](https://elsc.huji.ac.il/faculty-staff/naftali-tishby)                |
 | 11:45 pm - 12:15 pm | Oral 1                                | (pre-recorded)                                                                        |
 | 12:15 pm - 12:30 pm | Spotlight 1                           | (pre-recorded)                                                                        |
 | 12:30 pm - 1:00 pm  | Q & A + discussion session 1 & Oral 1 | Spotlight 1 speakers                                                                  |
