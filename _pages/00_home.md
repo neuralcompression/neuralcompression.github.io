@@ -79,7 +79,7 @@ Paper submissions should be made through OpenReview and further information will
     <td style="text-align:center"><a href="https://www.philkr.net">Philipp Krähenbühl</a> <br>University of Texas at Austin</td>
     <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>Co-founder and chair of MPEG</td>
     <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
-    <td style="text-align:center"><a href="https://www.linkedin.com/in/scottlabrozzi"></a>Scott Labrozzi<br> Disney</td>
+    <td style="text-align:center"><a href="https://www.linkedin.com/in/scottlabrozzi">Scott Labrozzi</a> <br> Disney</td>
   </tr>
 </table>
 
