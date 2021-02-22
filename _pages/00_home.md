@@ -8,6 +8,8 @@ description: From Information Theory to Applications
 
 Data compression is a problem of great practical importance and a new frontier for machine learning research that combines empirical findings with fundamental theoretical insights. The goal of this workshop is to bring together researchers from deep learning, information theory, and probabilistic modeling in oder to learn from each other and to encourage exchange on fundamentally novel issues related to neural data compression.
 
+**Important update:** The entire ICLR conference and all workshops have been pushed up by one day. The workshop is now scheduled for *Friday, May 7, 2021*.
+
 ### Topics
 
 The workshop solicits work related to neural data compression ranging from information-theoretical aspects to solving issues related to applications.
@@ -25,7 +27,7 @@ Submissions are invited for topics on, but not limited to:
 
 * **Submission deadline**: Feb 26, 2021
 * **Notification data**: March 26, 2021
-* **Workshop date**: May 8, 2021
+* **New Workshop date**: ~May 8, 2021~ May 7, 2021 *(please note that ICLR has been pushed up by one day)*
 
 ### Submission Instructions
 
@@ -67,21 +69,23 @@ Paper submissions should be made through OpenReview and further information will
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="assets/img/panel_alex_alemi.jpg" height="175"></td>
-    <!--<td style="text-align:center"><img src="assets/img/panel_ferenc_huszar.jpg" height="175"></td>-->
+    <td style="text-align:center"><img src="assets/img/panel_irina_higgins.webp" height="175"></td>
     <td style="text-align:center"><img src="assets/img/panel_philipp_krahenbuhl.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/panel_jakub_tomczak.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_leonardo_chiariglione.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_irina_higgins.webp" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_scott_labrozzi.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist, Google</td>
-    <!--<td style="text-align:center"><a href="https://www.inference.vc/about/">Ferenc Huszár</a> <br> Cambridge University</td>-->
+    <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
     <td style="text-align:center"><a href="https://www.philkr.net">Philipp Krähenbühl</a> <br>University of Texas at Austin</td>
     <td style="text-align:center"><a href="https://jmtomczak.github.io">Jakub Tomczak</a> <br>Vrije Universiteit Amsterdam</td>
-    <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>Co-founder and chair of MPEG</td>
-    <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
-    <td style="text-align:center"><a href="https://www.linkedin.com/in/scottlabrozzi">Scott Labrozzi</a> <br> Disney</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/panel_leonardo_chiariglione.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/panel_scott_labrozzi.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>Co-founder and chair of MPEG; MPAI</td>
+    <td style="text-align:center"><a href="https://www.linkedin.com/in/scottlabrozzi">Scott Labrozzi</a> <br> VP, Core Media Technology/Engineering Fellow, Disney Streaming Services</td>
   </tr>
 </table>
 
@@ -96,4 +100,3 @@ Paper submissions should be made through OpenReview and further information will
 * [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
 
 Please consider forwarding this workshop information to your colleagues or friends. 
-
