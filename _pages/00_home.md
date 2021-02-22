@@ -69,6 +69,7 @@ Paper submissions should be made through OpenReview and further information will
     <td style="text-align:center"><img src="assets/img/panel_alex_alemi.jpg" height="175"></td>
     <!--<td style="text-align:center"><img src="assets/img/panel_ferenc_huszar.jpg" height="175"></td>-->
     <td style="text-align:center"><img src="assets/img/panel_philipp_krahenbuhl.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/panel_jakub_tomczak.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/panel_leonardo_chiariglione.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/panel_irina_higgins.webp" height="175"></td>
     <td style="text-align:center"><img src="assets/img/panel_scott_labrozzi.jpg" height="175"></td>
@@ -77,6 +78,7 @@ Paper submissions should be made through OpenReview and further information will
     <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist, Google</td>
     <!--<td style="text-align:center"><a href="https://www.inference.vc/about/">Ferenc Huszár</a> <br> Cambridge University</td>-->
     <td style="text-align:center"><a href="https://www.philkr.net">Philipp Krähenbühl</a> <br>University of Texas at Austin</td>
+    <td style="text-align:center"><a href="https://jmtomczak.github.io">Jakub Tomczak</a> <br>Vrije Universiteit Amsterdam</td>
     <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>Co-founder and chair of MPEG</td>
     <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
     <td style="text-align:center"><a href="https://www.linkedin.com/in/scottlabrozzi">Scott Labrozzi</a> <br> Disney</td>
