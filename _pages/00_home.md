@@ -8,6 +8,8 @@ description: From Information Theory to Applications
 
 Data compression is a problem of great practical importance and a new frontier for machine learning research that combines empirical findings with fundamental theoretical insights. The goal of this workshop is to bring together researchers from deep learning, information theory, and probabilistic modeling in oder to learn from each other and to encourage exchange on fundamentally novel issues related to neural data compression.
 
+**Important update:** The entire ICLR conference and all workshops have been pushed up by one day. The workshop is now scheduled for *Friday, May 7, 2021*.
+
 ### Topics
 
 The workshop solicits work related to neural data compression ranging from information-theoretical aspects to solving issues related to applications.
@@ -25,7 +27,7 @@ Submissions are invited for topics on, but not limited to:
 
 * **Submission deadline**: Feb 26, 2021
 * **Notification data**: March 26, 2021
-* **Workshop date**: May 8, 2021
+* **New Workshop date**: ~May 8, 2021~ May 7, 2021 *(please note that ICLR has been pushed up by one day)*
 
 ### Submission Instructions
 
@@ -94,4 +96,3 @@ Paper submissions should be made through OpenReview and further information will
 * [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
 
 Please consider forwarding this workshop information to your colleagues or friends. 
-
