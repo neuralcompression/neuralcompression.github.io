@@ -24,7 +24,7 @@ Submissions are invited for topics on, but not limited to:
 
 * **Submission deadline**: Feb 26, 2021
 * **Notification data**: March 26, 2021
-* **New Workshop date**: ~May 8, 2021~ May 7, 2021 *(please note that ICLR has been pushed up by one day)*
+* **New Workshop date**: <s>May 8, 2021</s> May 7, 2021 *(please note that ICLR has been pushed up by one day)*
 
 ### Submission Instructions
 
