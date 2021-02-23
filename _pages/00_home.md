@@ -31,7 +31,7 @@ Submissions are invited for topics on, but not limited to:
 
 ### Submission Instructions
 
-We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in ICLR style.
+We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in ICLR style. Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
 
 Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session.
 
