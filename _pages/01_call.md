@@ -19,10 +19,9 @@ Submissions are invited for topics on, but not limited to:
 * Entropy Coding
 * Minimal Description Length Theory
 * Information Theory and Source Coding
-
 ### Important Dates
 
-* **Submission deadline**: Feb 26, 2021
+* **Submission deadline**: Feb 26, 2021 (11:59pm anywhere on earth)
 * **Notification data**: March 26, 2021
 * **New Workshop date**: <s>May 8, 2021</s> May 7, 2021 *(please note that ICLR has been pushed up by one day)*
 
@@ -30,7 +29,7 @@ Submissions are invited for topics on, but not limited to:
 
 We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in ICLR style. Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
 
-Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session.
+Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session and published via Openreview after the workshop.
 
 Papers can be submitted [through OpenReview](https://openreview.net/group?id=ICLR.cc/2021/Workshop/Neural_Compression). Please send any further inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:neural.compression.workshop@gmail.com).
 
