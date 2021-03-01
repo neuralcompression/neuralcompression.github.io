@@ -5,7 +5,7 @@ title: Schedule
 ---
 
 # ICLR 2021 Neural Compression Workshop Schedule
-**Date:** Saturday, May 7th
+**Date:** Friday, May 7th
 
 |---------------------|---------------------------------------|---------------------------------------------------------------------------------------|
 | Time (UTC+1)        | Session                               | Speaker(s)                                                                            |
