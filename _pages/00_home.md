@@ -99,4 +99,47 @@ Paper submissions should be made through OpenReview and further information will
 * [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
 * [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
 
-Please consider forwarding this workshop information to your colleagues or friends. 
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/organizer_stephan_mandt.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/organizer_robert_bamler.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/organizer_yingzhen_li.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/organizer_christopher_schroers.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="http://www.stephanmandt.com">Stephan Mandt</a> <br> University of California, Irvine</td>
+    <td style="text-align:center"><a href="https://robamler.github.io">Robert Bamler</a> <br> University of Tübingen, Germany</td>
+    <td style="text-align:center"><a href="http://yingzhenli.net/home/en/">Yingzhen Li</a> <br> Imperial College London, UK</td>
+    <td style="text-align:center"><a href="https://studios.disneyresearch.com/people/christopher-schroers/">Christopher Schroers</a> <br> Disney Research Studios</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/organizer_max_welling.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/organizer_yang_yang.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/organizer_taco_cohen.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://staff.fnwi.uva.nl/m.welling/">Max Welling</a> <br> University of Amsterdam; Qualcomm AI Research</td>
+    <td style="text-align:center"><a href="https://yyang768osu.github.io">Yang Yang</a> <br> Qualcomm AI Research</td>
+    <td style="text-align:center"><a href="https://tacocohen.wordpress.com">Taco Cohen</a> <br> Qualcomm AI Research</td>
+  </tr>
+</table>
+
+
+### Organizers affiliations
+<td style="text-align:center"><img src="assets/img/logo_uci.jpg" height="100"></td>
+<br>
+
+<td style="text-align:center"><img src="assets/img/logo_ut.png" height="100"></td>
+<br>
+
+<td style="text-align:center"><img src="assets/img/logo_ucl.jpg" height="100"></td>
+<br>
+
+<td style="text-align:center"><img src="assets/img/logo_disney.png" height="100"></td>
+<br>
+
+<td style="text-align:center"><img src="assets/img/logo_uva.png" height="100"></td>
+<br>
+
+<td style="text-align:center"><img src="assets/img/logo_qualcomm.png" height="100"></td>
+
