@@ -91,13 +91,6 @@ Paper submissions should be made through OpenReview and further information will
 
 ### Organizers
 
-* [Stephan Mandt](http://www.stephanmandt.com), University of California, Irvine
-* [Robert Bamler](https://robamler.github.io), University of Tübingen, Germany
-* [Yingzhen Li](http://yingzhenli.net/home/en/), Microsoft Research Cambridge
-* [Christopher Schroers](https://studios.disneyresearch.com/people/christopher-schroers/), Disney Research Studios
-* [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam; Qualcomm AI Research
-* [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
-* [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
 
 <table style="width:75%">
   <tr>
