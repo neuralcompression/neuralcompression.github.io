@@ -4,6 +4,8 @@ permalink: /schedule/
 title: Schedule
 ---
 
+Link to ICLR virtual site: [https://iclr.cc/virtual/2021/workshop/2130](https://iclr.cc/virtual/2021/workshop/2130).
+
 # ICLR 2021 Neural Compression Workshop Schedule
 **Date:** Friday, May 7th
 
@@ -41,8 +43,8 @@ title: Schedule
 | 6:00 pm - 6:10 pm   | Invited talk 6 Q & A                                                                   | [Johannes Balle](https://balle.io)                                                    |
 | 6:10 pm - 6:30 pm   | Oral 2:Improving Lossless Compression Rates via Monte Carlo Bits-Back Coding           | Yangjun Ruan et al.                                                                   |
 | 6:30 pm - 6:35 pm   | Spotlight 6:Importance weighted compression                                            | Lucas Theis, Jonathan Ho                                                              |
-| 6:35 pm - 6:40 pm   | Spotlight 7:COIN: COmpression with Implicit Neural representations                     | Emilien Dupont                                                                        |
-| 6:40 pm - 6:45 pm   | Spotlight 8:Graph Autoencoder for Graph Compression and Representation Learning        | Yunhao Ge                                                                             |
+| 6:35 pm - 6:40 pm   | Spotlight 7:COIN: COmpression with Implicit Neural representations                     | Emilien Dupont et al.                                                                        |
+| 6:40 pm - 6:45 pm   | Spotlight 8:Graph Autoencoder for Graph Compression and Representation Learning        | Yunhao Ge et al.                                                                            |
 | 6:45 pm - 6:50 pm   | Spotlight 9:Universal Rate-Distortion-Perception Representations for Lossy Compression | George Zhang et al.                                                                   |
 | 6:50 pm - 6:55 pm   | Spotlight 10:Lossy Image Compression with Normalizing Flows                            | Leonhard Helminger et al.                                                             |
 | 6:55 pm - 7:25 pm   | Q & A + discussion Oral 2 & Spotlight 6-10                                             | Oral 2 and Spotlight 6-10 speakers                                                                       |

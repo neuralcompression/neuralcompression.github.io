@@ -6,6 +6,8 @@ desc_title: Neural Compression Workshop @ ICLR 2021
 description: From Information Theory to Applications 
 ---
 
+Link to ICLR virtual site: [https://iclr.cc/virtual/2021/workshop/2130](https://iclr.cc/virtual/2021/workshop/2130).
+
 Data compression is a problem of great practical importance and a new frontier for machine learning research that combines empirical findings with fundamental theoretical insights. The goal of this workshop is to bring together researchers from deep learning, information theory, and probabilistic modeling in oder to learn from each other and to encourage exchange on fundamentally novel issues related to neural data compression.
 
 **Important update:** The entire ICLR conference and all workshops have been pushed up by one day. The workshop is now scheduled for *Friday, May 7, 2021*.
