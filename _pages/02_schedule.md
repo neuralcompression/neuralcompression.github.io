@@ -16,8 +16,8 @@ Link to ICLR virtual site: [https://iclr.cc/virtual/2021/workshop/2130](https://
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 10:35 am - 11:00 am | Invited talk 1                                                                         | [Fabian Mentzer](https://fmentzer.github.io) (pre-recorded)                           |
 | 11:00 am - 11:10 am | Invited talk 1 Q & A                                                                   | [Fabian Mentzer](https://fmentzer.github.io)                                          |
-| 11:10 am - 11:35 am | Invited talk 2                                                                         | [Naftali Tishby](https://elsc.huji.ac.il/faculty-staff/naftali-tishby) (pre-recorded) |
-| 11:35 am - 11:45 am | Invited talk 2 Q & A                                                                   | [Naftali Tishby](https://elsc.huji.ac.il/faculty-staff/naftali-tishby)                |
+| 11:10 am - 11:35 am | Invited talk 2                                                                         | [Karen Ullrich](https://karenullrich.info)  |
+| 11:35 am - 11:45 am | Invited talk 2 Q & A                                                                   | [Karen Ullrich](https://karenullrich.info)                |
 | 11:45 pm - 12:05 pm | Oral 1:Lossy Compression for Lossless Prediction                                       | Yann Dubois et al.                                                                    |
 | 12:05 pm - 12:10 pm | Spotlight 1:A coding theorem for the rate-distortion-perception function               | Lucas Theis & Aaron Wagner                                                            |
 | 12:10 pm - 12:15 pm | Spotlight 2:Lower Bounding Rate-Distortion From Samples                                | Yibo Yang and Stephan Mandt                                                           |
