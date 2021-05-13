@@ -129,7 +129,7 @@ Paper submissions should be made through OpenReview and further information will
 <td style="text-align:center"><img src="assets/img/logo_ut.png" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_ucl.jpg" height="100"></td>
+<td style="text-align:center"><img src="assets/img/logo_icl.jpg" height="100"></td>
 <br>
 
 <td style="text-align:center"><img src="assets/img/logo_disney.png" height="100"></td>
