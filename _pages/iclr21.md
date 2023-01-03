@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /iclr2021
 title: ICLR2021
 desc_title: Neural Compression Workshop @ ICLR 2021
 description: From Information Theory to Applications 
@@ -39,7 +39,7 @@ We solicit short workshop paper submissions of up to 4 pages + unlimited referen
 
 Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session and published via Openreview after the workshop.
 
-Paper submissions should be made through OpenReview and further information will be available at [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}). Please send your inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:neural.compression.workshop@gmail.com).
+<!-- Paper submissions should be made through OpenReview and further information will be available at [CFP]({{ site.baseurl }}{% link _pages/iclr21_call.md %}). Please send your inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:neural.compression.workshop@gmail.com). -->
 
 
 
@@ -47,10 +47,10 @@ Paper submissions should be made through OpenReview and further information will
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_fabian_mentzer.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_karen_ullrich.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_rianne_van_den_berg.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_oren_rippel.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/fabian_mentzer.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/karen_ullrich.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/rianne_van_den_berg.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/oren_rippel.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://fmentzer.github.io">Fabian Mentzer</a> <br> ETH Zurich</td>
@@ -59,8 +59,8 @@ Paper submissions should be made through OpenReview and further information will
     <td style="text-align:center"><a href="https://www.orenrippel.com">Oren Rippel</a> <br> WaveOne</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_jonathan_ho.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_johannes_balle.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/jonathan_ho.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/johannes_balle.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="http://www.jonathanho.me">Jonathan Ho</a> <br>  Google</td>
@@ -72,10 +72,10 @@ Paper submissions should be made through OpenReview and further information will
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/panel_alex_alemi.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_irina_higgins.webp" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_philipp_krahenbuhl.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_jakub_tomczak.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/alex_alemi.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/irina_higgins.webp" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/philipp_krahenbuhl.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/jakub_tomczak.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist, Google</td>
@@ -84,8 +84,8 @@ Paper submissions should be made through OpenReview and further information will
     <td style="text-align:center"><a href="https://jmtomczak.github.io">Jakub Tomczak</a> <br>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/panel_leonardo_chiariglione.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/panel_scott_labrozzi.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/leonardo_chiariglione.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/scott_labrozzi.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Leonardo_Chiariglione">Leonardo Chiariglione</a> <br>Co-founder and chair of MPEG; MPAI</td>
@@ -98,10 +98,10 @@ Paper submissions should be made through OpenReview and further information will
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/organizer_stephan_mandt.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/organizer_robert_bamler.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/organizer_yingzhen_li.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/organizer_christopher_schroers.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/stephan_mandt.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/robert_bamler.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/yingzhen_li.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/christopher_schroers.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="http://www.stephanmandt.com">Stephan Mandt</a> <br> University of California, Irvine</td>
@@ -110,9 +110,9 @@ Paper submissions should be made through OpenReview and further information will
     <td style="text-align:center"><a href="https://studios.disneyresearch.com/people/christopher-schroers/">Christopher Schroers</a> <br> Disney Research Studios</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/organizer_max_welling.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/organizer_yang_yang.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/organizer_taco_cohen.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/max_welling.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/yang_yang.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/taco_cohen.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://staff.fnwi.uva.nl/m.welling/">Max Welling</a> <br> University of Amsterdam; Qualcomm AI Research</td>

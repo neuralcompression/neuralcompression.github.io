@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cfp/
-title: Call for Papers
+#title: Call for Papers (uncomment this line to show this page)
 ---
 
 
