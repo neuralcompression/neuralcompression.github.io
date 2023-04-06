@@ -1,6 +1,7 @@
 ---
 layout: home
-permalink: /
+order: 3
+permalink: /tutorial
 title: Tutorial
 desc_title: Data Compression with Machine Learning
 ---
@@ -17,7 +18,7 @@ Besides treating standard problems in data compression, such as image or video c
 
 ### Tutorial
 
-- The most recent tutorial was held at NeurIPS 2022, with a video recording [here](https://neurips.cc/virtual/2022/tutorial/55811) (requires NeurIPS registration) and slides [here](https://drive.google.com/drive/u/1/folders/1hIpZEh342rN8PzvdBBIfu655yjSAqwwu).
+- The most recent tutorial was held at NeurIPS 2022, with a video recording [here](https://neurips.cc/virtual/2022/tutorial/55811) and slides [here](https://drive.google.com/drive/u/1/folders/1hIpZEh342rN8PzvdBBIfu655yjSAqwwu).
 
 - [An Introduction to Neural Data Compression](https://arxiv.org/abs/2202.06533), tutorial article by Yibo Yang, Stephan Mandt, and Lucas Theis.
 
