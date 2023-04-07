@@ -6,27 +6,35 @@ title: Workshop 2023
 redirect_from: /index.html
 desc_title: Neural Compression Workshop @ ICML 2023
 description: From Information Theory to Applications 
+social: true
 ---
 
 
 ### Call for Papers
 
 
-The workshop solicits original research on the topic of learning based approaches to data compression and communication.
+The workshop solicits original research on the topic of learning-based approaches to data compression and communication.
 
-The ubiquity of communication technologies have made efficient and effective data compression an increasingly critical research area. Recent work building on deep generative models such as variational autoencoders, GANs, normalizing flows, and diffusion models has shown that machine-learning-based compression methods can significantly outperform state-of-the-art classical compression codecs for image and video data. However, there are still open questions and practical problems holding back these methods from making a major impact in real-world applications.
+The ubiquity of communication technology  has made efficient and effective data compression an increasingly critical research area. Recent work building on deep generative models such as variational autoencoders, GANs, normalizing flows, and diffusion models has shown that machine-learning-based compression methods can significantly outperform state-of-the-art classical compression codecs for image and video data. However, there are still open questions and practical problems holding back these methods from making a major impact in real-world applications.
 
 This workshop aims to address these issues by bringing together researchers from diverse fields including deep generative modeling, information theory, and statistics (Bayeisan or otherwise).  We believe that a multi-disciplinary approach to compression will lead to new synergies and result in a new generation of learnable codecs, as well as a better understanding of theoretical aspects.
 
 
 Topics of interest include, but are not limited to,
-* Data Compression (e.g., images, video, audio) with Machine Learning
-* Probabilistic Modeling and Variational Inference for Compression
-* Quantization, Entropy Coding, and Stochastic Coding
-* Theoretic Understanding of Learned Compression
-* Fundamental Performance Bounds/Limits
-* Computationally-efficient Models/Methods
+* Data compression (e.g., images, video, audio) with machine learning
+* Probabilistic modeling and inference for compression
+* Quantization, entropy coding, and stochastic coding
+* Theoretic understanding of learned compression
+* Fundamental performance bounds/limits
+* Learning-based approaches to information theorey
+* Computationally-efficient models/methods
+* Perceptual metrics and image quality assessment algorithms
 
+
+### Call for Reviewers
+Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
+
+🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆
 
 ### Important Dates
 
@@ -101,7 +109,7 @@ Some accepted papers will be accepted as contributed talks. All accepted papers 
   <tr>
     <td style="text-align:center"><a href="https://sites.google.com/view/berivanisik">Berivan Isik</a> <br>PhD Student, Stanford</td>
     <td style="text-align:center"><a href="https://yiboyang.com">Yibo Yang</a> <br> PhD Student, UC Irvine</td>
-    <td style="text-align:center"><a href="https://dsevero.com">Daniel Severo</a> <br> PhD Student, University of Toronto</td>
+    <td style="text-align:center"><a href="https://dsevero.com">Daniel Severo</a> <br> PhD Student, University of Toronto and Vector Institute for AI</td>
     <td style="text-align:center"><a href="https://karenullrich.info">Karen Ullrich</a> <br>Research Scientist, Meta AI</td>
   </tr>
   <tr>
@@ -123,6 +131,9 @@ Some accepted papers will be accepted as contributed talks. All accepted papers 
 <br>
 
 <td style="text-align:center"><img src="assets/img/logo_uoft.png" height="100"></td>
+<br>
+
+<td style="text-align:center"><img src="assets/img/logo_vector.png" height="100"></td>
 <br>
 
 <td style="text-align:center"><img src="assets/img/logo_meta.png" height="100"></td>

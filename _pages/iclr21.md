@@ -5,6 +5,7 @@ permalink: /workshop21
 title: Workshop 2021
 desc_title: Neural Compression Workshop @ ICLR 2021
 description: From Information Theory to Applications 
+social: true
 ---
 
 Accepted papers: see [OpenReview site](https://openreview.net/group?id=ICLR.cc/2021/Workshop/Neural_Compression).

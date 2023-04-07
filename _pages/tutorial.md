@@ -3,7 +3,8 @@ layout: home
 order: 3
 permalink: /tutorial
 title: Tutorial
-desc_title: Data Compression with Machine Learning
+desc_title: Tutorial on Data Compression with Machine Learning
+social: true
 ---
 
 
