@@ -26,7 +26,7 @@ Topics of interest include, but are not limited to,
 * Quantization, entropy coding, and stochastic coding
 * Theoretic understanding of learned compression
 * Fundamental performance bounds/limits
-* Learning-based approaches to information theorey
+* Learning-based approaches to information theory
 * Computationally-efficient models/methods
 * Perceptual metrics and image quality assessment algorithms
 
@@ -67,7 +67,7 @@ Some accepted papers will be accepted as contributed talks. All accepted papers 
     <td style="text-align:center"><a href="https://balle.io">Johannes Ballé</a> <br> Research Scientist, Google</td>
     <td style="text-align:center"><a href="https://jmhl.org">José Miguel Hernández-Lobato</a> <br> Professor, Cambridge</td>
     <td style="text-align:center"><a href="https://sites.utexas.edu/hkim/">Hyeji Kim</a> <br> Assistant Professor, UT Austin</td>
-    <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/yanlu/">Yan Lu</a> <br> Partner Research Manager, Microsoft</td>
+    <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/yanlu/">Yan Lu</a> <br> Partner Research Manager, Microsoft Research Asia</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/aaron_wagner.jpg" height="175"></td>
@@ -90,7 +90,7 @@ Some accepted papers will be accepted as contributed talks. All accepted papers 
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://www.ece.utoronto.ca/people/khisti-a/">Ashish Khisti</a> <br> Professor, University of Toronto</td>
-    <td style="text-align:center"><a href="http://www.tivaro.nl/">Ties van Rozendaal</a> <br> Senior Research Engineer, Qualcomm</td>
+    <td style="text-align:center"><a href="http://www.tivaro.nl/">Ties van Rozendaal</a> <br> Senior Deep Learning Researcher, Qualcomm</td>
     <td style="text-align:center"><a href="https://research.google/people/author38233/"> George Toderici </a> <br> Senior Staff Research Scientist, Google</td>
     <td style="text-align:center"><a href="http://www.cs.cmu.edu/~rvinayak/">Rashmi Vinayak</a> <br>Assistant Professor, CMU</td>
   </tr>
