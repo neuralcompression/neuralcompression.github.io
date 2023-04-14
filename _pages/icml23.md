@@ -50,6 +50,8 @@ We solicit short workshop paper submissions of up to 4 pages + unlimited referen
 
 Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session and published via Openreview after the workshop.
 
+This workshop will not have formal proceedings, so we welcome the submission of work currently under review at other archival ML venues. We also welcome the submission of work recently published in information theory venues (e.g. Transactions on Information Theory, ISIT, ITW) that may be of interest to an ML audience. However, we will not consider work recently published in or accepted to other archival ML venues (e.g. ICML main conference).
+
 <!-- Paper submissions should be made through OpenReview and further information will be available at [CFP]({{ site.baseurl }}{% link _pages/iclr21_call.md %}). Please send your inquiries by email to the organizers at [neural.compression.workshop@gmail.com](mailto:neural.compression.workshop@gmail.com). -->
 
 
