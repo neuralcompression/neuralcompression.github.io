@@ -40,7 +40,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 * **Submission deadline**: May 27, 2023
 * **Notification data**: June 19, 2023
-* **Workshop date**: TBD (either July 28 or July 29, 2023)
+* **Workshop date**: July 29, 2023
 
 ### Submission Instructions
 
