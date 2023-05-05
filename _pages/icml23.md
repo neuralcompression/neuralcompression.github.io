@@ -48,7 +48,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in ICML style. Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
 
-Some accepted papers will be accepted as contributed talks. All accepted papers will be given a slot in the poster presentation session and published via Openreview after the workshop.
+Some accepted papers will be accepted as contributed talks. All accepted posters are expected to be presented in-person at the poster session, and all papers published via Openreview after the workshop.
 
 This workshop will not have formal proceedings, so we welcome the submission of work currently under review at other archival ML venues. We also welcome the submission of work recently published in information theory venues (e.g. Transactions on Information Theory, ISIT, ITW) that may be of interest to an ML audience. However, we will not consider work recently published in or accepted to other archival ML venues (e.g. ICML main conference).
 
