@@ -38,8 +38,8 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: May 27, 2023
-* **Notification data**: June 19, 2023
+* **Submission deadline**: May 27 11:59 PM AOE (anywhere on earth), 2023
+* **Notification date**: June 19, 2023
 * **Workshop date**: July 29, 2023
 
 ### Submission Instructions
