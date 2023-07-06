@@ -10,6 +10,31 @@ social: true
 ---
 
 
+### Schedule (July 29, 2023)
+
+|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Start Time (GMT-10, Hawaii)          | Session                                                                                | Speaker(s)                                                                            |
+|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 9:00 am | Opening Remarks                                                                        | Organizers                                                                            |
+|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 9:05 am | Invited talk 1                                                                         | Johannes Ballé |
+| 9:35 am | Oral 1                                                                                 |  |
+| 9:55 am | Coffee break                                                                           |  |
+| 10:10 am | Invited talk 2                                                                        | José Miguel Hernández-Lobato                 |  |
+| 10:40 am | Oral 2                                                                                |  |
+| 11:00 am  | Panel discussion                                                                     | Ashish Khisti, Ties van Rozendaal, George Toderici, Rashmi Vinayak |  |
+| 11:45 am | Lunch break
+|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 12:45 pm | Invited talk 3                                                                         | Hyeji Kim |
+| 1:15 pm | Oral 3                                                                                |  |
+| 1:45 pm | Invited talk 4                                                                         | Yan Lu |
+| 2:05 pm | Poster session                                                                          | |
+|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 3:35 pm | Invited talk 5                                                                     | Aaron Wagner |
+| 4:05 pm | Oral 4                                                                                |  |
+| 4:25 pm | Invited talk 6                                                                     | Tsachy Weissman |
+| 4:55 pm   | Closing Remarks                                                                        | Organizers    |
+
 ### Call for Papers
 
 
@@ -40,7 +65,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 * **Submission deadline**: May 27 11:59 PM AOE (anywhere on earth), 2023
 * **Notification date**: June 19, 2023
-* **Workshop date**: July 29, 2023
+* **Workshop date**: 9 AM - 5 PM Hawaii time (HST), July 29, 2023
 
 ### Submission Instructions
 
