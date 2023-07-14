@@ -9,8 +9,10 @@ description: From Information Theory to Applications
 social: true
 ---
 
+### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023)
 
-### Schedule (July 29, 2023)
+⭐ **Link to ICML page: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)** ⭐
+
 
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Start Time (GMT-10, Hawaii)          | Session                                                                                | Speaker(s)                                                                            |
@@ -85,7 +87,7 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/johannes_balle.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/johannes_balle.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/jose_hernandez-lobato.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/hyeji_kim.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/yan_lu.jpg" height="175"></td>
