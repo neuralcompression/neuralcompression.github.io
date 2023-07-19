@@ -20,21 +20,21 @@ social: true
 | 9:00 am | Opening Remarks                                                                        | Organizers                                                                            |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 9:05 am | Invited talk 1                                                                         | Johannes Ballé |
-| 9:35 am | Oral 1                                                                                 |  |
-| 9:55 am | Coffee break                                                                           |  |
-| 10:10 am | Invited talk 2                                                                        | José Miguel Hernández-Lobato                 |  |
-| 10:40 am | Oral 2                                                                                |  |
-| 11:00 am  | Panel discussion                                                                     | Ashish Khisti, Ties van Rozendaal, George Toderici, Rashmi Vinayak |  |
-| 11:45 am | Lunch break
+| 9:35 am | Invited talk 2                                                                        | Tsachy Weissman  |
+| 10:05 am | Coffee break                                                                           |  |
+| 10:20 am | Invited talk 3                                                                                |José Miguel Hernández-Lobato |
+| 10:50 am | Oral 1                                                                                |Neural Distributed Compressor Does Binning |
+| 11:10 am  | Panel discussion                                                                     | Ashish Khisti, Ties van Rozendaal, George Toderici, Rashmi Vinayak |  |
+| 11:55 am | Lunch break
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 12:45 pm | Invited talk 3                                                                         | Hyeji Kim |
-| 1:15 pm | Oral 3                                                                                |  |
-| 1:35 pm | Invited talk 4                                                                         | Yan Lu |
-| 2:05 pm | Poster session                                                                          | |
+| 12:55 pm | Invited talk 4                                                                         | Hyeji Kim |
+| 1:25 pm | Oral 2                                                                                | Entropy Coding of Unordered Data Structures |
+| 1:45 pm | Invited talk 4                                                                         | Yan Lu |
+| 2:15 pm | Poster session                                                                          | |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 3:35 pm | Invited talk 5                                                                     | Aaron Wagner |
-| 4:05 pm | Oral 4                                                                                |  |
-| 4:25 pm | Invited talk 6                                                                     | Tsachy Weissman |
+| 3:45 pm | Invited talk 5                                                                     | Aaron Wagner |
+| 4:15 pm | Oral 3                                                                                | Neural Image Compression: Generalization, Robustness, and Spectral Bias |
+| 4:35 pm | Oral 4                                                                     | Slicing Mutual Information Generalization Bounds for Neural Networks |
 | 4:55 pm   | Closing Remarks                                                                        | Organizers    |
 
 ### Call for Papers
