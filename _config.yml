@@ -16,8 +16,8 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: neuralcompression
 twitter_username: neural_compress
+github_username: neuralcompression
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -25,7 +25,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  Feel free to reach out!
+  Follow us on Twitter for the latest updates!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 

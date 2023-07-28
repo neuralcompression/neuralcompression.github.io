@@ -9,6 +9,8 @@ description: From Information Theory to Applications
 social: true
 ---
 
+**UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6).
+
 ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023)
 
 ⭐ **Link to ICML page: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)** ⭐
@@ -38,13 +40,14 @@ social: true
 | 4:55 pm   | Closing Remarks                                                                        | Organizers    |
 
 ### Call for Papers
+⭐ **Accepted papers: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)** ⭐
 
 
 The workshop solicits original research on the topic of learning-based approaches to data compression and communication.
 
 The ubiquity of communication technology  has made efficient and effective data compression an increasingly critical research area. Recent work building on deep generative models such as variational autoencoders, GANs, normalizing flows, and diffusion models has shown that machine-learning-based compression methods can significantly outperform state-of-the-art classical compression codecs for image and video data. However, there are still open questions and practical problems holding back these methods from making a major impact in real-world applications.
 
-This workshop aims to address these issues by bringing together researchers from diverse fields including deep generative modeling, information theory, and statistics (Bayeisan or otherwise).  We believe that a multi-disciplinary approach to compression will lead to new synergies and result in a new generation of learnable codecs, as well as a better understanding of theoretical aspects.
+This workshop aims to address these issues by bringing together researchers from diverse fields including deep generative modeling, information theory, and statistics (Bayesian or otherwise).  We believe that a multi-disciplinary approach to compression will lead to new synergies and result in a new generation of learnable codecs, as well as a better understanding of theoretical aspects.
 
 
 Topics of interest include, but are not limited to,
@@ -61,13 +64,13 @@ Topics of interest include, but are not limited to,
 ### Call for Reviewers
 Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
 
-🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆
+~~🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆~~
 
 ### Important Dates
 
-* **Submission deadline**: May 27 11:59 PM AOE (anywhere on earth), 2023
-* **Notification date**: June 19, 2023
-* **Workshop date**: 9 AM - 5 PM Hawaii time (HST), July 29, 2023
+* ~~**Submission deadline**: May 27 11:59 PM AOE (anywhere on earth), 2023~~
+* ~~**Notification date**: June 19, 2023~~
+* ~~**Workshop date**: 9 AM - 5 PM Hawaii time (HST), July 29, 2023~~
 
 ### Submission Instructions
 
