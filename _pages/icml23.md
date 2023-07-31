@@ -9,12 +9,12 @@ description: From Information Theory to Applications
 social: true
 ---
 
-**UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6).
 
+
+### ICML page with recording/slides/papers: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)
+
+<!--
 ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023)
-
-⭐ **Link to ICML page: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)** ⭐
-
 
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Start Time (GMT-10, Hawaii)          | Session                                                                                | Speaker(s)                                                                            |
@@ -38,9 +38,42 @@ social: true
 | 4:15 pm | Oral 3                                                                                | Neural Image Compression: Generalization, Robustness, and Spectral Bias |
 | 4:35 pm | Oral 4                                                                     | Slicing Mutual Information Generalization Bounds for Neural Networks |
 | 4:55 pm   | Closing Remarks                                                                        | Organizers    |
+-->
+
+
+### Awards
+**Oral presentations**
+
+[*Neural Distributed Compressor Does Binning.*](https://openreview.net/forum?id=3Dq4FZJSga)
+Ezgi Ozyilkan, Johannes Ballé, Elza Erkip
+
+[*Entropy Coding of Unordered Data Structures.*](https://openreview.net/forum?id=PggJ9CbEN7)
+Julius Kunze, Daniel Severo, Giulio Zani, Jan-Willem van de Meent, James Townsend
+
+[*Neural Image Compression: Generalization, Robustness, and Spectral Bias.*](https://openreview.net/forum?id=IXLfVFeI5a)
+Kelsey Lieberman, James Diffenderfer, Charles Godfrey, Bhavya Kailkhura
+
+[*Slicing Mutual Information Generalization Bounds for Neural Networks.*](https://openreview.net/forum?id=cbLcwK3SZi)
+Kimia Nadjahi, Kristjan Greenewald, Rickard Brüel Gabrielsson, Justin Solomon 🏆 <span style="color:red">Best paper award</span>🏆
+
+**Spotlight presentations**
+
+[*Estimating the Rate-Distortion Function by Wasserstein Gradient Descent.*](https://openreview.net/forum?id=5pt5Btjr8W)
+Yibo Yang, Stephan Eckstein, Marcel Nutz, Stephan Mandt
+
+[*Lossy Image Compression with Conditional Diffusion Model.*](https://openreview.net/forum?id=GDIp6mRu5m)
+Ruihan Yang, Stephan Mandt
+
+[*NNCodec: An Open Source Software Implementation of the Neural Network Coding ISO/IEC Standard.*](https://github.com/fraunhoferhhi/nncodec)
+Daniel Becking, Paul Haase, Heiner Kirchhoffer, Karsten Müller, Wojciech Samek
+
+[*On the Choice of Perception Loss Function for Learned Video Compression.*](https://openreview.net/forum?id=YhIvfWIdqJ)
+Buu Phan, Sadaf Salehkalaibar, Jun Chen, Wei Yu, Ashish J Khisti
+
+[*Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations.*](https://openreview.net/forum?id=38sgR7agFC)
+Yang Sui, Zhuohang Li, Ding Ding, Xiang Pan, Xiaozhong Xu, Shan Liu, Zhenzhong Chen
 
 ### Call for Papers
-⭐ **Accepted papers: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)** ⭐
 
 
 The workshop solicits original research on the topic of learning-based approaches to data compression and communication.
@@ -61,10 +94,12 @@ Topics of interest include, but are not limited to,
 * Perceptual metrics and image quality assessment algorithms
 
 
+<!--
 ### Call for Reviewers
 Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
 
 ~~🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆~~
+-->
 
 ### Important Dates
 
