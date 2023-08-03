@@ -64,8 +64,8 @@ Yibo Yang, Stephan Eckstein, Marcel Nutz, Stephan Mandt
 [*Lossy Image Compression with Conditional Diffusion Model.*](https://openreview.net/forum?id=GDIp6mRu5m)
 Ruihan Yang, Stephan Mandt
 
-[*NNCodec: An Open Source Software Implementation of the Neural Network Coding ISO/IEC Standard.*](https://github.com/fraunhoferhhi/nncodec)
-Daniel Becking, Paul Haase, Heiner Kirchhoffer, Karsten Müller, Wojciech Samek
+[*NNCodec: An Open Source Software Implementation of the Neural Network Coding ISO/IEC Standard.*](https://openreview.net/forum?id=5VgMDKUgX0)
+Daniel Becking, Paul Haase, Heiner Kirchhoffer, Karsten Müller, Wojciech Samek, Detlev Marpe
 
 [*On the Choice of Perception Loss Function for Learned Video Compression.*](https://openreview.net/forum?id=YhIvfWIdqJ)
 Buu Phan, Sadaf Salehkalaibar, Jun Chen, Wei Yu, Ashish J Khisti
