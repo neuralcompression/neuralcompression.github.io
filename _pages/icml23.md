@@ -11,7 +11,8 @@ social: true
 
 
 
-### ICML page with recording/slides/papers: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)
+### ICML page with recording/slides: [https://icml.cc/virtual/2023/workshop/21499](https://icml.cc/virtual/2023/workshop/21499)
+### Accepted papers: [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/NCW)
 
 <!--
 ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023)
