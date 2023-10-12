@@ -3,7 +3,6 @@ layout: home
 order: 1
 permalink: /workshop23
 title: Workshop 2023
-redirect_from: /index.html
 desc_title: Neural Compression Workshop @ ICML 2023
 description: From Information Theory to Applications 
 social: true
