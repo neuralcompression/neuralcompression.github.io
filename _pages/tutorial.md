@@ -3,7 +3,6 @@ layout: home
 order: 4
 permalink: /tutorial
 title: Tutorial
-redirect_from: /index.html
 desc_title: Tutorial on Data Compression with Machine Learning
 social: true
 ---

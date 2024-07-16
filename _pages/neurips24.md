@@ -4,6 +4,7 @@ order: 1
 permalink: /workshop24
 title: Workshop 2024
 desc_title: Machine Learning and Compression Workshop @ NeurIPS 2024
+redirect_from: /index.html
 social: true
 ---
 
