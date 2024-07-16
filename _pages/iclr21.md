@@ -1,6 +1,6 @@
 ---
 layout: home
-order: 2
+order: 3
 permalink: /workshop21
 title: Workshop 2021
 desc_title: Neural Compression Workshop @ ICLR 2021

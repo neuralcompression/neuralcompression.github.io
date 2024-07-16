@@ -4,7 +4,7 @@
 name: "Neural Compression"
 email: neural.compression.workshop@gmail.com
 description: > # this means to ignore newlines until "url:"
-  A venue for neural compression
+  A venue for all things ML ∩ compression.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -33,7 +33,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Neural Compression
-blog_description: These are neural compression papers which have been reviewed and accepted.
+blog_description: A venue for all things ML ∩ compression.
 
 # Pagination
 paginate: 4

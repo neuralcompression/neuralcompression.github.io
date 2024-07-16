@@ -1,6 +1,6 @@
 ---
 layout: home
-order: 3
+order: 4
 permalink: /tutorial
 title: Tutorial
 redirect_from: /index.html

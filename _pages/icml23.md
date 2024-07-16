@@ -1,6 +1,6 @@
 ---
 layout: home
-order: 1
+order: 2
 permalink: /workshop23
 title: Workshop 2023
 desc_title: Neural Compression Workshop @ ICML 2023
