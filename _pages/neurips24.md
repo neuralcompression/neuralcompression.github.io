@@ -55,8 +55,46 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 
 
-### Speakers and Panelists
-Coming soon!
+### Tentative Speakers
+
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/emilien_dupont.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/ziv_goldfeld.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/ashish_khisti.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/sanae_lotfi.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://emiliendupont.github.io/">Emilien Dupont</a> <br> Research Scientist, DeepMind</td>
+    <td style="text-align:center"><a href="https://www.ece.cornell.edu/faculty-directory/ziv-goldfeld">Ziv Goldfeld</a> <br> Assistant Professor, Cornell</td>
+    <td style="text-align:center"><a href="https://www.ece.utoronto.ca/people/khisti-a/">Ashish Khisti</a> <br> Professor, University of Toronto</td>
+    <td style="text-align:center"><a href="https://sanaelotfi.github.io/">Sanae Lotfi</a> <br> PhD Student, NYU</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/ayfer_ozgur.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://web.stanford.edu/~aozgur/">Ayfer Özgür</a> <br> Associate Professor, Stanford</td>
+  </tr>
+</table>
+
+
+### Tentative Panelists
+
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/hyeji_kim.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/christos_louizos.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/ravid_shwartz-ziv.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/aaron_wagner.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://sites.utexas.edu/hkim/">Hyeji Kim</a> <br> Assistant Professor, UT Austin</td>
+    <td style="text-align:center"><a href="https://scholar.google.nl/citations?user=xrSUChoAAAAJ&hl=en">Christos Louizos</a> <br> ML Researcher, Qualcomm</td>
+    <td style="text-align:center"><a href="https://www.ravid-shwartz-ziv.com/"> Ravid Shwartz-Ziv </a> <br> Assistant Professor, NYU </td>
+    <td style="text-align:center"><a href="https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner">Aaron Wagner</a> <br> Professor, Cornell</td>
+  </tr>
+</table>
 
 
 ### Organizers
@@ -73,14 +111,14 @@ Coming soon!
     <td style="text-align:center"><a href="https://yiboyang.com">Yibo Yang</a> <br> PhD Student, UC Irvine</td>
     <td style="text-align:center"><a href="https://karenullrich.info">Karen Ullrich</a> <br>Research Scientist, Meta AI</td>
     <td style="text-align:center"><a href="https://www.justuswill.com/">Justus Will</a> <br> PhD Student, UC Irvine</td>
-    <td style="text-align:center"><a href="https://ezgimez.github.io/">Ezgi Özyılkan</a> <br> PhD Student, New York University</td>
+    <td style="text-align:center"><a href="https://ezgimez.github.io/">Ezgi Özyılkan</a> <br> PhD Student, NYU</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/elza_erkip.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/stephan_mandt.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://wp.nyu.edu/elza_erkip/">Elza Erkip</a> <br> Professor, New York University</td>
+    <td style="text-align:center"><a href="https://wp.nyu.edu/elza_erkip/">Elza Erkip</a> <br> Professor, NYU</td>
     <td style="text-align:center"><a href="http://www.stephanmandt.com">Stephan Mandt</a> <br> Associate Professor, UC Irvine</td>
   </tr>
 </table>
@@ -90,7 +128,7 @@ Coming soon!
 <td style="text-align:center"><img src="assets/img/logo_uci.jpg" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_meta.png" height="80"></td>
+<td style="text-align:center"><img src="assets/img/logo_meta.png" height="70"></td>
 <br>
 
 <td style="text-align:center"><img src="assets/img/logo_nyu.png" height="140"></td>
