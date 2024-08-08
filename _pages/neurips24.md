@@ -36,8 +36,8 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: Oct 5, 2024
-* **Notification date**: Oct 14, 2024
+* **Submission deadline**: Sept 30, 2024
+* **Notification date**: Oct 9, 2024
 * **Workshop date**: Dec 14 or Dec 15 (TBD), 2024
 
 ### Submission Instructions
