@@ -36,14 +36,13 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: Sept 30, 2024
+* **Submission deadline**: Sept 30, 2024 (Anywhere on Earth)
 * **Notification date**: Oct 9, 2024
-* **Workshop date**: Dec 14 or Dec 15 (TBD), 2024
+* **Workshop date**: Dec 15, 2024
 
 ### Submission Instructions
 
-<!--**Submission website: [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/NCW)**-->
-**Submission website: coming soon!**
+**Submission website: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)**
 
 We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in NeurIPS style. Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
 
