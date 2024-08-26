@@ -44,7 +44,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 **Submission website: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)**
 
-We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in NeurIPS style. Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
+We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in [NeurIPS style](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
 
 Some accepted papers will be accepted as contributed talks. All accepted posters are expected to be presented in-person at the poster session, and all papers published via Openreview after the workshop.
 
