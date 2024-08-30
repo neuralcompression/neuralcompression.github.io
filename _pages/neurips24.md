@@ -30,12 +30,9 @@ Topics of interest include, but are not limited to,
 * Information-theoretic aspects of unsupervised learning and representation learning.
 
 
-<!--
 ### Call for Reviewers
-Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
+Please fill out this [Google form](https://forms.gle/UjHFrL4C3nc9ab8j7) if you are interested in reviewing for the workshop. Best reviewer wins **free registration for the full conference**!
 
-~~🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆~~
--->
 
 ### Important Dates
 
