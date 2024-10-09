@@ -82,16 +82,16 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/hyeji_kim.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/christos_louizos.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/ravid_shwartz-ziv.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/aaron_wagner.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/emilien_dupont.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/ayfer_ozgur.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://sites.utexas.edu/hkim/">Hyeji Kim</a> <br> Assistant Professor, UT Austin</td>
-    <td style="text-align:center"><a href="https://scholar.google.nl/citations?user=xrSUChoAAAAJ&hl=en">Christos Louizos</a> <br> ML Researcher, Qualcomm</td>
     <td style="text-align:center"><a href="https://www.ravid-shwartz-ziv.com/"> Ravid Shwartz-Ziv </a> <br> Assistant Professor, NYU </td>
     <td style="text-align:center"><a href="https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner">Aaron Wagner</a> <br> Professor, Cornell</td>
+    <td style="text-align:center"><a href="https://emiliendupont.github.io/">Emilien Dupont</a> <br> Research Scientist, DeepMind</td>
+    <td style="text-align:center"><a href="https://web.stanford.edu/~aozgur/">Ayfer Özgür</a> <br> Associate Professor, Stanford</td>
   </tr>
 </table>
 
