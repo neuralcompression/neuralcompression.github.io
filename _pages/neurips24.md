@@ -46,7 +46,7 @@ Please fill out this [Google form](https://forms.gle/UjHFrL4C3nc9ab8j7) if you a
 
 We solicit short workshop paper submissions of up to ~~4 pages~~ 6 pages + unlimited references/appendices. Please format submissions in [NeurIPS style](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip). Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
 
-Some accepted papers will be accepted as contributed talks. All accepted posters are expected to be presented in-person at the poster session, and all papers published via Openreview after the workshop.
+All accepted papers are expected to be presented as posters at the poster session, and published via Openreview after the workshop.  Some accepted papers will be selected as contributed/spotlight talks.
 
 This workshop will not have formal proceedings, so we welcome the submission of work currently under review at other archival ML venues (for example, shorter versions of main conference submissions can be submitted to our workshop concurrently). We also welcome the submission of work recently published in information theory venues (e.g. Transactions on Information Theory, ISIT, ITW) that may be of interest to an ML audience. However, we will not consider work recently published in or accepted to other archival ML venues (e.g., NeurIPS main conference) to encourage the presentation of fresh and cutting-edge results at this workshop.
 
