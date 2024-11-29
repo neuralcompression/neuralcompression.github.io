@@ -16,6 +16,8 @@ social: true
 
 **Accepted papers**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)
 
+### Awards
+
 **Oral presentations**🏆
 
 [Transformers Learn to Compress Variable-order Markov Chains in-Context](https://openreview.net/forum?id=AbbQPMj4cj). Ruida Zhou, Chao Tian, Suhas Diggavi
@@ -27,7 +29,20 @@ social: true
 [An Information Theory of Compute-Optimal Size Scaling, Emergence, and Plateaus in Language Models](https://openreview.net/forum?id=wZWcslCVFY). Anuj K. Nayak, Lav R. Varshney
 
 
-**Best reviewer award**🏆 goes to [Thanh-Dung Le](https://ltdung.github.io/). Congratulations to all the award winners!
+**Spotlight presentations**🏆
+
+[Interpretability as Compression: Reconsidering SAE Explanations of Neural Activations](https://openreview.net/forum?id=cblEXlSaWz). Kola Ayonrinde, Michael T Pearce, Lee Sharkey
+
+[Diffusion Models With Learned Adaptive Noise](https://openreview.net/forum?id=2N3ROqE6bc). Subham Sekhar Sahoo, Aaron Gokaslan, Christopher De Sa, Volodymyr Kuleshov
+
+[The Rate-Distortion-Perception Trade-Off with Algorithmic Realism](https://openreview.net/forum?id=fFkbEL1bM0). Yassine Hamdi, Aaron B. Wagner, Deniz Gunduz
+
+[The Trichromatic Strong Lottery Ticket Hypothesis: Neural Compression With Three Primary Supermasks](https://openreview.net/forum?id=CfI2KfPb4C). Ángel López García-Arias, Yasuyuki Okoshi, Hikari Otsuka, Daiki Chijiwa, Yasuhiro Fujiwara, Susumu Takeuchi, Masato Motomura
+
+
+**Best reviewer award**🏆 goes to [Thanh-Dung Le](https://ltdung.github.io/).
+
+Congratulations to all the award winners!
 
 
 
