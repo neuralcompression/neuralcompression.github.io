@@ -8,9 +8,27 @@ redirect_from: /index.html
 social: true
 ---
 
-### Updates
+### Workshop Info
 
-[08/29/2024] Based on feedback from authors, we are increasing the page limit for submissions from 4 to 6 pages (single-column NeurIPS style).
+**Date & location**: Sun Dec 15, 2024. West Meeting Room 211-214
+
+**Tentative schedule and NeurIPS virtual site**: [https://neurips.cc/virtual/2024/workshop/84753](https://neurips.cc/virtual/2024/workshop/84753)
+
+**Accepted papers**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)
+
+**Oral presentations**🏆
+
+[Transformers Learn to Compress Variable-order Markov Chains in-Context](https://openreview.net/forum?id=AbbQPMj4cj). Ruida Zhou, Chao Tian, Suhas Diggavi
+
+[Getting free Bits Back from Rotational Symmetries in LLMs](https://openreview.net/forum?id=jvjRNm6tb3). Jiajun He, Gergely Flamich, José Miguel Hernández-Lobato
+
+[Prechastic Coding: An Alternative Approach to Neural Network Description Lengths](https://openreview.net/forum?id=oq7bhphUBO). Paris Dominic Louis Flood, Pietro Lio
+
+[An Information Theory of Compute-Optimal Size Scaling, Emergence, and Plateaus in Language Models](https://openreview.net/forum?id=wZWcslCVFY). Anuj K. Nayak, Lav R. Varshney
+
+
+**Best reviewer award**🏆 goes to [Thanh-Dung Le](https://ltdung.github.io/). Congratulations to all the award winners!
+
 
 
 ### Call for Papers
@@ -36,8 +54,8 @@ Please fill out this [Google form](https://forms.gle/UjHFrL4C3nc9ab8j7) if you a
 
 ### Important Dates
 
-* **Submission deadline**: Sept 30, 2024 (Anywhere on Earth)
-* **Notification date**: Oct 9, 2024
+* **Submission deadline**: ~~Sept 30, 2024 (Anywhere on Earth)~~
+* **Notification date**: ~~Oct 9, 2024~~
 * **Workshop date**: Dec 15, 2024
 
 ### Submission Instructions
@@ -82,15 +100,13 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/ravid_shwartz-ziv.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/aaron_wagner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/emilien_dupont.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/ashish_khisti.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/ayfer_ozgur.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.ravid-shwartz-ziv.com/"> Ravid Shwartz-Ziv </a> <br> Assistant Professor, NYU </td>
     <td style="text-align:center"><a href="https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner">Aaron Wagner</a> <br> Professor, Cornell</td>
-    <td style="text-align:center"><a href="https://emiliendupont.github.io/">Emilien Dupont</a> <br> Research Scientist, DeepMind</td>
+    <td style="text-align:center"><a href="https://www.ece.utoronto.ca/people/khisti-a/">Ashish Khisti</a> <br> Professor, University of Toronto</td>
     <td style="text-align:center"><a href="https://web.stanford.edu/~aozgur/">Ayfer Özgür</a> <br> Associate Professor, Stanford</td>
   </tr>
 </table>
