@@ -16,6 +16,9 @@ social: true
 
 **Accepted papers**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)
 
+**Virtual talks and posters** (please name your files like `paper_title-talk.mp4` or `paper_title-slides.pdf`): [https://drive.google.com/drive/folders/1cDCRLJTamwsvePEfZ9yoGpw_CVQho79K?usp=sharing](https://drive.google.com/drive/folders/1cDCRLJTamwsvePEfZ9yoGpw_CVQho79K?usp=sharing)
+
+
 ### Awards
 
 **Oral presentations**🏆
@@ -116,11 +119,13 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="assets/img/aaron_wagner.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/sanae_lotfi.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/ashish_khisti.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/ayfer_ozgur.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner">Aaron Wagner</a> <br> Professor, Cornell</td>
+    <td style="text-align:center"><a href="https://sanaelotfi.github.io/">Sanae Lotfi</a> <br> PhD Student, NYU</td>
     <td style="text-align:center"><a href="https://www.ece.utoronto.ca/people/khisti-a/">Ashish Khisti</a> <br> Professor, University of Toronto</td>
     <td style="text-align:center"><a href="https://web.stanford.edu/~aozgur/">Ayfer Özgür</a> <br> Associate Professor, Stanford</td>
   </tr>
