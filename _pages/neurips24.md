@@ -16,7 +16,6 @@ social: true
 
 **Accepted papers**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)
 
-**Virtual talks and posters** (please name your files like `paper_title-talk.mp4` or `paper_title-slides.pdf`): [https://drive.google.com/drive/folders/1cDCRLJTamwsvePEfZ9yoGpw_CVQho79K?usp=sharing](https://drive.google.com/drive/folders/1cDCRLJTamwsvePEfZ9yoGpw_CVQho79K?usp=sharing)
 
 
 ### Awards
