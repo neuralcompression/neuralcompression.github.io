@@ -89,7 +89,7 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 
 
-### Tentative Speakers
+### Speakers
 
 <table style="width:75%">
   <tr>
@@ -113,7 +113,7 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 </table>
 
 
-### Tentative Panelists
+### Panelists
 
 <table style="width:75%">
   <tr>
