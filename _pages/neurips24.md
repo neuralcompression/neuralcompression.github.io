@@ -12,11 +12,11 @@ social: true
 
 **Date & location**: Sun Dec 15, 2024. West Meeting Room 211-214
 
-**Tentative schedule and NeurIPS virtual site**: [https://neurips.cc/virtual/2024/workshop/84753](https://neurips.cc/virtual/2024/workshop/84753)
+**Schedule and NeurIPS virtual site**: [https://neurips.cc/virtual/2024/workshop/84753](https://neurips.cc/virtual/2024/workshop/84753)
 
 **Accepted papers**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Compression)
 
-
+**Virtual posters and presentations**: [Google Drive](https://drive.google.com/drive/folders/1cDCRLJTamwsvePEfZ9yoGpw_CVQho79K?usp=sharing)
 
 ### Awards
 
