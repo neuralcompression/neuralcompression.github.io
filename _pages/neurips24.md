@@ -20,6 +20,11 @@ social: true
 
 ### Awards
 
+
+**Best paper award**🏆
+
+[Transformers Learn to Compress Variable-order Markov Chains in-Context](https://openreview.net/forum?id=AbbQPMj4cj). Ruida Zhou, Chao Tian, Suhas Diggavi
+
 **Oral presentations**🏆
 
 [Transformers Learn to Compress Variable-order Markov Chains in-Context](https://openreview.net/forum?id=AbbQPMj4cj). Ruida Zhou, Chao Tian, Suhas Diggavi
